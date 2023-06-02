@@ -1,4 +1,4 @@
-# Manutecao-win
+# Manutenção-win
 O script fornecido é um exemplo de um script em lote para realizar algumas verificações e correções no sistema operacional Windows. Aqui está a descrição do que cada comando faz:
 
 1. `@echo off`: Desativa a exibição dos comandos no prompt de comando, tornando o script mais limpo e legível.
